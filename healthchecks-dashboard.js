@@ -271,9 +271,9 @@
         panel: '<div class="' + style.tags + '"></div>' +
             '<div class="' + style.nodes + '"></div>',
         node: '<div data-hc-template class="' + style.node.__class + '">' +
-            '  <div class="' + style.nodeStatus.__class + 'hc-node__status">' +
+            '  <div class="' + style.nodeStatus.__class + '">' +
             '    <div class="' + style.nodeStatus.icon + '"></div>' +
-            '    <div class="' + style.nodeStatus.duraton + '"></div>' +
+            '    <div class="' + style.nodeStatus.duration + '"></div>' +
             '    <div class="' + style.nodeStatus.time + '"></div>' +
             '  </div>' +
             '  <div class="' + style.nodeInfo.__class + '">' +

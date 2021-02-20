@@ -2,6 +2,8 @@
 
 Customizable healthchecks.io dashboard inspired by the https://github.com/healthchecks/dashboard
 
+Demo page can be found here: https://smeagol74.github.io/healthchecks-dashboard/sample.html
+
 ### Features
 
 * **Autorefresh of the nodes state**. You may specify the `data-hc-refresh` data-attribute to start project autorefresh
